@@ -1,6 +1,11 @@
-# design-patterns-collection
+#+TITLE: design-patterns-collection
 网上搜集的设计模式的学习资料
 https://blog.csdn.net/liang19890820/article/details/66974516
+
 https://github.com/Waleon/DesignPatterns
+
 https://github.com/yogykwan/design-patterns-cpp
+
 https://design-patterns.readthedocs.io/zh_CN/latest/creational_patterns/simple_factory.html
+
+https://www.guanguans.cn/design-patterns-for-humans-cn/
